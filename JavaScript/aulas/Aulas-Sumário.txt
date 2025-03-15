@@ -1,3 +1,5 @@
 Aula008 --- Operadores Bitwise
 
 Aula009 --- Diferença entre Pré Incremento e Pós Incremento
+
+Aula010 --- Aprendendo sobre operador ternário

@@ -3,3 +3,5 @@ Aula008 --- Operadores Bitwise
 Aula009 --- Diferença entre Pré Incremento e Pós Incremento
 
 Aula010 --- Aprendendo sobre operador ternário
+
+Aula012 --- Operador Spread, aprendendo sobre o espalhador em JavaScript

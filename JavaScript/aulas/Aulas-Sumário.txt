@@ -9,3 +9,5 @@ Aula012 --- Operador Spread, aprendendo sobre o espalhador em JavaScript
 Aula014 --- Switch Case em JavaScript
 
 Aula015 --- Loop FOR em JavaScript
+
+Aula016 --- Loops FOR IN e FOR OF em JavaScript

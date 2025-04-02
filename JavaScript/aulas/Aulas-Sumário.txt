@@ -17,3 +17,5 @@ Aula019 --- Entenda as declarações BREAK e CONTINUE em JavaScript
 Aula020 --- Aprendendo sobre funções em JavaScript
 
 Aula 021 --- Funções com retorno em JavaScript
+
+Aula022 --- Funções parametrizadas em JavaScript

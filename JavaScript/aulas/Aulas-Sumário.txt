@@ -13,3 +13,7 @@ Aula015 --- Loop FOR em JavaScript
 Aula016 --- Loops FOR IN e FOR OF em JavaScript
 
 Aula019 --- Entenda as declarações BREAK e CONTINUE em JavaScript
+
+Aula020 --- Aprendendo sobre funções em JavaScript
+
+Aula 021 --- Funções com retorno em JavaScript
